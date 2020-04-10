@@ -1,0 +1,2 @@
+# What is this???
+**This is a multiplayer game where 2 players get to chose 4 items they put in they're backpack. Then one of them has to guess whats in the other ones backpack. If you guess it right, you get 1 point, if you dont, you get nothing. First to get 4 points wins. Thats all :)**
